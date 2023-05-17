@@ -1,3 +1,3 @@
 # PROJE
 İlk projem
-Magza satış hesaplamaSS
+Magza satış hesaplama
