@@ -1,3 +1,3 @@
-# NNN
+# PROJE
 İlk projem
 basit hesap işlemleri
