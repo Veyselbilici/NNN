@@ -76,6 +76,7 @@ toplam_magaza_satis, toplam_satici_satis = magaza_satis_tutar(magaza_dict)
 
 print("Mağaza toplam :",toplam_magaza_satis)
 print("satıcı toplam:",toplam_satici_satis)
+print ("satıcılar bitmiştir")
 
 
 
